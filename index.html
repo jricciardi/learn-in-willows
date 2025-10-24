@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn in Willows - Story-Based Language Learning</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌳 Learn in Willows</h1>
+            <p class="tagline">Create your story-inspired language learning path</p>
+        </header>
+
+        <main>
+            <!-- Step 1: Book Style Selection -->
+            <section id="step1" class="step active">
+                <h2>Step 1: Choose Your Book Style</h2>
+                <p class="step-description">Select a children's book style that resonates with you</p>
+                <div class="options-grid">
+                    <button class="option-card" data-style="whimsical">
+                        <span class="icon">🎭</span>
+                        <h3>Whimsical</h3>
+                        <p>Like "The Wind in the Willows" - playful, imaginative adventures</p>
+                    </button>
+                    <button class="option-card" data-style="educational">
+                        <span class="icon">📚</span>
+                        <h3>Educational</h3>
+                        <p>Like "The Magic School Bus" - learning through exploration</p>
+                    </button>
+                    <button class="option-card" data-style="classic-tale">
+                        <span class="icon">🏰</span>
+                        <h3>Classic Tale</h3>
+                        <p>Like "The Little Prince" - timeless wisdom and simplicity</p>
+                    </button>
+                    <button class="option-card" data-style="adventure">
+                        <span class="icon">🗺️</span>
+                        <h3>Adventure</h3>
+                        <p>Like "Where the Wild Things Are" - bold explorations</p>
+                    </button>
+                </div>
+            </section>
+
+            <!-- Step 2: Language Selection -->
+            <section id="step2" class="step">
+                <h2>Step 2: Select Your Target Language</h2>
+                <p class="step-description">Which language would you like to learn?</p>
+                <div class="options-grid">
+                    <button class="option-card" data-language="spanish">
+                        <span class="icon">🇪🇸</span>
+                        <h3>Spanish</h3>
+                        <p>Español</p>
+                    </button>
+                    <button class="option-card" data-language="french">
+                        <span class="icon">🇫🇷</span>
+                        <h3>French</h3>
+                        <p>Français</p>
+                    </button>
+                    <button class="option-card" data-language="german">
+                        <span class="icon">🇩🇪</span>
+                        <h3>German</h3>
+                        <p>Deutsch</p>
+                    </button>
+                    <button class="option-card" data-language="italian">
+                        <span class="icon">🇮🇹</span>
+                        <h3>Italian</h3>
+                        <p>Italiano</p>
+                    </button>
+                    <button class="option-card" data-language="portuguese">
+                        <span class="icon">🇵🇹</span>
+                        <h3>Portuguese</h3>
+                        <p>Português</p>
+                    </button>
+                    <button class="option-card" data-language="japanese">
+                        <span class="icon">🇯🇵</span>
+                        <h3>Japanese</h3>
+                        <p>日本語</p>
+                    </button>
+                </div>
+                <button class="btn-back" onclick="goToStep(1)">← Back</button>
+            </section>
+
+            <!-- Step 3: Target Text Selection -->
+            <section id="step3" class="step">
+                <h2>Step 3: Choose Your Target Text</h2>
+                <p class="step-description">What would you like to read in your target language?</p>
+                <div class="text-input-container">
+                    <label for="targetText">Enter the title or paste a sample of the text:</label>
+                    <input type="text" id="targetTextTitle" placeholder="e.g., 'Le Petit Prince' or 'Don Quijote'" />
+                    <textarea id="targetTextSample" rows="6" placeholder="Paste a sample paragraph from your target text here (optional)..."></textarea>
+                </div>
+                <div class="button-group">
+                    <button class="btn-back" onclick="goToStep(2)">← Back</button>
+                    <button class="btn-primary" onclick="generateLearningPath()">Generate Learning Path →</button>
+                </div>
+            </section>
+
+            <!-- Step 4: Learning Path Results -->
+            <section id="step4" class="step">
+                <h2>Your Personalized Learning Path</h2>
+                <div id="learningPathResults"></div>
+                <button class="btn-primary" onclick="startOver()">Start Over</button>
+            </section>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
