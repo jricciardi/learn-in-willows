@@ -1,8 +1,8 @@
 # Popular Languages for English Speakers
 
-This document lists the 3 most popular languages that English speakers want to learn.
+This document lists popular languages that English speakers want to learn.
 
-## Top 3 Languages
+## Top Languages
 
 ### 1. Spanish
 - **Why Popular:** Most widely spoken Romance language, practical for travel and business in the Americas
@@ -18,3 +18,8 @@ This document lists the 3 most popular languages that English speakers want to l
 - **Why Popular:** Important for business and academia in Europe, strong economy
 - **Number of Speakers:** ~135 million speakers worldwide
 - **Geographic Relevance:** Germany, Austria, Switzerland, parts of Belgium and Luxembourg
+
+### 4. Latin
+- **Why Popular:** Foundation of Romance languages, essential for classical studies, law, medicine, and understanding Western culture
+- **Number of Speakers:** Ancient language (no native speakers), but studied by millions worldwide
+- **Geographic Relevance:** Historical language of the Roman Empire, Vatican City (ecclesiastical Latin), scientific nomenclature, legal terminology

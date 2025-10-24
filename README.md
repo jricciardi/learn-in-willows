@@ -8,17 +8,19 @@ This project explores language learning through familiar stories, focusing on he
 ## Resources
 
 ### [Popular Languages](./popular-languages.md)
-Discover the **3 most popular languages** that English speakers want to learn:
+Discover the **most popular languages** that English speakers want to learn:
 - Spanish
 - French  
 - German
+- Latin
 
 ### [Public Domain Texts](./public-domain-texts.md)
-Explore **5 popular public domain texts** for language learners, including:
+Explore popular public domain texts for language learners, including:
 - Don Quixote (Spanish)
-- Le Petit Prince (French)
+- Le Père Goriot (French)
 - Les Misérables (French)
-- And more classic works in Spanish, French, and German
+- Commentarii de Bello Gallico (Latin)
+- And more classic works in Spanish, French, German, and Latin
 
 ### [Familiar Stories](./familiar-stories.md)
 Read about **5 public domain stories** that English readers know well:

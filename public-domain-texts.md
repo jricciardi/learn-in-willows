@@ -1,6 +1,6 @@
 # Popular Public Domain Texts for Language Learning
 
-This document lists 5 popular public domain texts that English speakers often want to read when learning Spanish, French, or German.
+This document lists popular public domain texts that English speakers often want to read when learning Spanish, French, German, or Latin.
 
 ## Spanish
 
@@ -16,10 +16,10 @@ This document lists 5 popular public domain texts that English speakers often wa
 
 ## French
 
-### 3. Le Petit Prince (The Little Prince) by Antoine de Saint-Exupéry
-- **Original Publication:** 1943
-- **Why Popular:** Simple yet profound language, beloved worldwide, excellent for beginners
-- **Level:** Beginner to Intermediate
+### 3. Le Père Goriot (Old Goriot) by Honoré de Balzac
+- **Original Publication:** 1835
+- **Why Popular:** Part of La Comédie Humaine series, masterpiece of French realism
+- **Level:** Intermediate to Advanced
 
 ### 4. Les Misérables by Victor Hugo
 - **Original Publication:** 1862
@@ -31,8 +31,35 @@ This document lists 5 popular public domain texts that English speakers often wa
 - **Why Popular:** Adventure and revenge story, engaging plot keeps learners motivated
 - **Level:** Intermediate to Advanced
 
+## Latin
+
+### 6. Commentarii de Bello Gallico (The Gallic Wars) by Julius Caesar
+- **Original Publication:** ~50 BCE
+- **Why Popular:** Clear, straightforward Latin prose, foundational text for Latin students
+- **Level:** Beginner to Intermediate
+
+### 7. Aeneid (Aeneis) by Virgil
+- **Original Publication:** ~19 BCE
+- **Why Popular:** Epic poem, cornerstone of Latin literature, rich poetic language
+- **Level:** Intermediate to Advanced
+
+### 8. Metamorphoses by Ovid
+- **Original Publication:** ~8 CE
+- **Why Popular:** Collection of mythological tales, engaging stories, beautiful poetry
+- **Level:** Intermediate to Advanced
+
+### 9. De Bello Civili (The Civil War) by Julius Caesar
+- **Original Publication:** ~40s BCE
+- **Why Popular:** Continuation of Caesar's clear prose style, historical significance
+- **Level:** Beginner to Intermediate
+
+### 10. Catullus' Poems (Carmina) by Catullus
+- **Original Publication:** ~54 BCE
+- **Why Popular:** Short, accessible poems with varied themes, excellent for beginners
+- **Level:** Beginner to Intermediate
+
 ## Note on Public Domain
-The texts listed above have varying public domain status depending on jurisdiction. While many were published before 1928 and are in the public domain in most countries, some works like Le Petit Prince (1943) may have different copyright status depending on location. Always check your local copyright laws. Many are freely available through Project Gutenberg and similar repositories.
+All classical Latin texts are in the public domain as they were written over 2,000 years ago. Modern language texts listed above have varying public domain status depending on jurisdiction. Most were published before 1928 and are in the public domain in most countries. Always check your local copyright laws. Many are freely available through Project Gutenberg and similar repositories.
 
 ## Additional Recommended Texts (Available in Multiple Languages)
 
