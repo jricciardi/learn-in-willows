@@ -31,12 +31,12 @@ This document lists 5 popular public domain texts that English speakers often wa
 - **Why Popular:** Adventure and revenge story, engaging plot keeps learners motivated
 - **Level:** Intermediate to Advanced
 
-## German
-
-### Additional Popular Texts (across all three languages):
-- **Grimm's Fairy Tales** (German: Kinder- und Hausmärchen) - Available in all three languages
-- **Hans Christian Andersen's Fairy Tales** - Translated into Spanish, French, and German
-- **The Adventures of Pinocchio** (Original Italian, but widely available in Spanish, French, German)
-
 ## Note on Public Domain
 All texts listed were published before 1928 or have entered the public domain through other means. Availability may vary by country due to different copyright laws.
+
+## Additional Recommended Texts (Available in Multiple Languages)
+
+These classic texts are available in Spanish, French, and German translations:
+- **Grimm's Fairy Tales** (German: Kinder- und Hausmärchen) - Original German, widely translated
+- **Hans Christian Andersen's Fairy Tales** - Beloved stories available in all three languages
+- **Aesop's Fables** - Ancient stories with simple language, ideal for beginners
