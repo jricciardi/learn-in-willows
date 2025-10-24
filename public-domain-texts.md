@@ -49,7 +49,7 @@ This document lists popular public domain texts that English speakers often want
 - **Level:** Intermediate to Advanced
 
 ### 9. De Bello Civili (The Civil War) by Julius Caesar
-- **Original Publication:** ~40s BCE
+- **Original Publication:** 49-44 BCE
 - **Why Popular:** Continuation of Caesar's clear prose style, historical significance
 - **Level:** Beginner to Intermediate
 
@@ -59,7 +59,7 @@ This document lists popular public domain texts that English speakers often want
 - **Level:** Beginner to Intermediate
 
 ## Note on Public Domain
-All classical Latin texts are in the public domain as they were written over 2,000 years ago. Modern language texts listed above have varying public domain status depending on jurisdiction. Most were published before 1928 and are in the public domain in most countries. Always check your local copyright laws. Many are freely available through Project Gutenberg and similar repositories.
+All classical Latin texts are in the public domain as ancient works written nearly 2,000 years ago or more. Modern language texts listed above have varying public domain status depending on jurisdiction. Most were published before 1928 and are in the public domain in most countries. Always check your local copyright laws. Many are freely available through Project Gutenberg and similar repositories.
 
 ## Additional Recommended Texts (Available in Multiple Languages)
 
