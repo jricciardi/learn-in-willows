@@ -55,7 +55,13 @@ function generateLearningPath() {
     appState.targetText.sample = document.getElementById('targetTextSample').value.trim();
 
     if (!appState.targetText.title) {
-        alert('Please enter a title for your target text.');
+        // Highlight the title input field
+        const titleInput = document.getElementById('targetTextTitle');
+        titleInput.style.borderColor = '#dc3545';
+        titleInput.focus();
+        setTimeout(() => {
+            titleInput.style.borderColor = '';
+        }, 3000);
         return;
     }
 

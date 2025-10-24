@@ -99,7 +99,7 @@ h2 {
 
 .option-card.selected {
     border-color: #667eea;
-    background: linear-gradient(135deg, #667eea15, #764ba215);
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.08), rgba(118, 75, 162, 0.08));
 }
 
 .option-card .icon {
@@ -217,7 +217,7 @@ h2 {
 }
 
 .summary-box {
-    background: linear-gradient(135deg, #667eea15, #764ba215);
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.08), rgba(118, 75, 162, 0.08));
     padding: 20px;
     border-radius: 8px;
     margin-bottom: 20px;
