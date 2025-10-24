@@ -32,11 +32,11 @@ This document lists 5 popular public domain texts that English speakers often wa
 - **Level:** Intermediate to Advanced
 
 ## Note on Public Domain
-All texts listed were published before 1928 or have entered the public domain through other means. Availability may vary by country due to different copyright laws.
+The texts listed above have varying public domain status depending on jurisdiction. While many were published before 1928 and are in the public domain in most countries, some works like Le Petit Prince (1943) may have different copyright status depending on location. Always check your local copyright laws. Many are freely available through Project Gutenberg and similar repositories.
 
 ## Additional Recommended Texts (Available in Multiple Languages)
 
-These classic texts are available in Spanish, French, and German translations:
+Beyond the core 5 texts above, these classics are excellent for language learning and are available in Spanish, French, and German translations:
 - **Grimm's Fairy Tales** (German: Kinder- und Hausmärchen) - Original German, widely translated
 - **Hans Christian Andersen's Fairy Tales** - Beloved stories available in all three languages
 - **Aesop's Fables** - Ancient stories with simple language, ideal for beginners
