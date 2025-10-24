@@ -13,12 +13,15 @@ Learn in Willows helps users create personalized language learning paths by:
 ## Features
 
 - **Language Selection**: Choose from Spanish, French, German, Italian, Portuguese, or Japanese
-- **Childhood Story Selection**: Pick from 8 classic children's books including:
+- **Childhood Story Selection**: Pick from 8 classic children's books:
   - The Wind in the Willows
   - The Little Prince
   - Where the Wild Things Are
+  - The Magic School Bus
   - Winnie-the-Pooh
-  - And more...
+  - Curious George
+  - The Velveteen Rabbit
+  - The Very Hungry Caterpillar
 - **Target Text Selection**: Choose from curated literature in your target language, organized by difficulty level (beginner, intermediate, advanced)
 - **Flexible Learning Path**: Activities organized by purpose (Foundation → Building → Bridge → Mastery) without rigid timelines
 - **Multiple Selections**: Select as many childhood stories and target texts as you want
