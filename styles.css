@@ -102,6 +102,27 @@ h2 {
     background: linear-gradient(135deg, rgba(102, 126, 234, 0.08), rgba(118, 75, 162, 0.08));
 }
 
+.option-card.multi-select {
+    position: relative;
+}
+
+.option-card.multi-select.selected::after {
+    content: '✓';
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: #667eea;
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
 .option-card .icon {
     font-size: 3rem;
     display: block;
@@ -225,6 +246,39 @@ h2 {
 
 .summary-box strong {
     color: #667eea;
+}
+
+.target-texts-list {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 10px;
+}
+
+.target-texts-list li {
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(102, 126, 234, 0.1);
+}
+
+.target-texts-list li:last-child {
+    border-bottom: none;
+}
+
+.author {
+    font-style: italic;
+    color: #999;
+    font-size: 0.85rem;
+}
+
+.level-badge {
+    display: inline-block;
+    background: #667eea;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 8px 0;
 }
 
 @media (max-width: 768px) {

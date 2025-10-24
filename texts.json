@@ -1,0 +1,242 @@
+{
+  "childhoodStories": [
+    {
+      "id": "wind-in-willows",
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "style": "whimsical",
+      "description": "Adventures of Mole, Rat, Toad, and Badger along the riverbank"
+    },
+    {
+      "id": "little-prince",
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "style": "classic-tale",
+      "description": "A young prince's journey through the universe"
+    },
+    {
+      "id": "where-wild-things-are",
+      "title": "Where the Wild Things Are",
+      "author": "Maurice Sendak",
+      "style": "adventure",
+      "description": "Max's wild adventure to the land of monsters"
+    },
+    {
+      "id": "magic-school-bus",
+      "title": "The Magic School Bus",
+      "author": "Joanna Cole",
+      "style": "educational",
+      "description": "Ms. Frizzle's educational field trips"
+    },
+    {
+      "id": "winnie-the-pooh",
+      "title": "Winnie-the-Pooh",
+      "author": "A.A. Milne",
+      "style": "whimsical",
+      "description": "Adventures in the Hundred Acre Wood"
+    },
+    {
+      "id": "curious-george",
+      "title": "Curious George",
+      "author": "H.A. Rey",
+      "style": "adventure",
+      "description": "A curious monkey's playful misadventures"
+    },
+    {
+      "id": "velveteen-rabbit",
+      "title": "The Velveteen Rabbit",
+      "author": "Margery Williams",
+      "style": "classic-tale",
+      "description": "A toy rabbit's journey to becoming real"
+    },
+    {
+      "id": "very-hungry-caterpillar",
+      "title": "The Very Hungry Caterpillar",
+      "author": "Eric Carle",
+      "style": "educational",
+      "description": "A caterpillar eats his way to becoming a butterfly"
+    }
+  ],
+  "targetTexts": {
+    "spanish": [
+      {
+        "id": "don-quijote",
+        "title": "Don Quijote de la Mancha",
+        "author": "Miguel de Cervantes",
+        "level": "advanced",
+        "description": "Classic tale of the ingenious gentleman"
+      },
+      {
+        "id": "cien-anos",
+        "title": "Cien Años de Soledad",
+        "author": "Gabriel García Márquez",
+        "level": "advanced",
+        "description": "Magical realism masterpiece"
+      },
+      {
+        "id": "la-casa",
+        "title": "La Casa en Mango Street",
+        "author": "Sandra Cisneros",
+        "level": "intermediate",
+        "description": "Coming-of-age vignettes"
+      },
+      {
+        "id": "platero-y-yo",
+        "title": "Platero y Yo",
+        "author": "Juan Ramón Jiménez",
+        "level": "beginner",
+        "description": "Poetic tale of a man and his donkey"
+      }
+    ],
+    "french": [
+      {
+        "id": "le-petit-prince",
+        "title": "Le Petit Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "level": "beginner",
+        "description": "Beloved philosophical tale"
+      },
+      {
+        "id": "les-miserables",
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "level": "advanced",
+        "description": "Epic tale of redemption"
+      },
+      {
+        "id": "letranger",
+        "title": "L'Étranger",
+        "author": "Albert Camus",
+        "level": "intermediate",
+        "description": "Philosophical novel about absurdism"
+      },
+      {
+        "id": "le-comte",
+        "title": "Le Comte de Monte-Cristo",
+        "author": "Alexandre Dumas",
+        "level": "intermediate",
+        "description": "Adventure tale of revenge and redemption"
+      }
+    ],
+    "german": [
+      {
+        "id": "der-vorleser",
+        "title": "Der Vorleser",
+        "author": "Bernhard Schlink",
+        "level": "intermediate",
+        "description": "Story of guilt and understanding"
+      },
+      {
+        "id": "die-verwandlung",
+        "title": "Die Verwandlung",
+        "author": "Franz Kafka",
+        "level": "intermediate",
+        "description": "Metamorphosis of Gregor Samsa"
+      },
+      {
+        "id": "siddharta",
+        "title": "Siddhartha",
+        "author": "Hermann Hesse",
+        "level": "intermediate",
+        "description": "Spiritual journey of self-discovery"
+      },
+      {
+        "id": "faust",
+        "title": "Faust",
+        "author": "Johann Wolfgang von Goethe",
+        "level": "advanced",
+        "description": "Classic German drama"
+      }
+    ],
+    "italian": [
+      {
+        "id": "pinocchio",
+        "title": "Le Avventure di Pinocchio",
+        "author": "Carlo Collodi",
+        "level": "beginner",
+        "description": "The wooden puppet's adventures"
+      },
+      {
+        "id": "divina-commedia",
+        "title": "La Divina Commedia",
+        "author": "Dante Alighieri",
+        "level": "advanced",
+        "description": "Epic journey through afterlife"
+      },
+      {
+        "id": "il-nome-rosa",
+        "title": "Il Nome della Rosa",
+        "author": "Umberto Eco",
+        "level": "advanced",
+        "description": "Medieval mystery novel"
+      },
+      {
+        "id": "cuore",
+        "title": "Cuore",
+        "author": "Edmondo De Amicis",
+        "level": "intermediate",
+        "description": "Diary of an Italian schoolboy"
+      }
+    ],
+    "portuguese": [
+      {
+        "id": "dom-casmurro",
+        "title": "Dom Casmurro",
+        "author": "Machado de Assis",
+        "level": "intermediate",
+        "description": "Brazilian classic about jealousy"
+      },
+      {
+        "id": "capitaes-areia",
+        "title": "Capitães da Areia",
+        "author": "Jorge Amado",
+        "level": "intermediate",
+        "description": "Street children in Salvador"
+      },
+      {
+        "id": "alquimista",
+        "title": "O Alquimista",
+        "author": "Paulo Coelho",
+        "level": "beginner",
+        "description": "Journey to find treasure"
+      },
+      {
+        "id": "memorial",
+        "title": "Memorial de Aires",
+        "author": "Machado de Assis",
+        "level": "intermediate",
+        "description": "Diary of a retired diplomat"
+      }
+    ],
+    "japanese": [
+      {
+        "id": "kokoro",
+        "title": "こころ (Kokoro)",
+        "author": "夏目漱石 (Natsume Sōseki)",
+        "level": "intermediate",
+        "description": "Exploration of friendship and isolation"
+      },
+      {
+        "id": "norwegian-wood",
+        "title": "ノルウェイの森 (Norwegian Wood)",
+        "author": "村上春樹 (Haruki Murakami)",
+        "level": "intermediate",
+        "description": "Coming-of-age love story"
+      },
+      {
+        "id": "botchan",
+        "title": "坊っちゃん (Botchan)",
+        "author": "夏目漱石 (Natsume Sōseki)",
+        "level": "beginner",
+        "description": "Young teacher's experiences"
+      },
+      {
+        "id": "snow-country",
+        "title": "雪国 (Snow Country)",
+        "author": "川端康成 (Kawabata Yasunari)",
+        "level": "advanced",
+        "description": "Lyrical tale of fleeting love"
+      }
+    ]
+  }
+}

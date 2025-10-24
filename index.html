@@ -14,37 +14,9 @@
         </header>
 
         <main>
-            <!-- Step 1: Book Style Selection -->
+            <!-- Step 1: Language Selection -->
             <section id="step1" class="step active">
-                <h2>Step 1: Choose Your Book Style</h2>
-                <p class="step-description">Select a children's book style that resonates with you</p>
-                <div class="options-grid">
-                    <button class="option-card" data-style="whimsical">
-                        <span class="icon">🎭</span>
-                        <h3>Whimsical</h3>
-                        <p>Like "The Wind in the Willows" - playful, imaginative adventures</p>
-                    </button>
-                    <button class="option-card" data-style="educational">
-                        <span class="icon">📚</span>
-                        <h3>Educational</h3>
-                        <p>Like "The Magic School Bus" - learning through exploration</p>
-                    </button>
-                    <button class="option-card" data-style="classic-tale">
-                        <span class="icon">🏰</span>
-                        <h3>Classic Tale</h3>
-                        <p>Like "The Little Prince" - timeless wisdom and simplicity</p>
-                    </button>
-                    <button class="option-card" data-style="adventure">
-                        <span class="icon">🗺️</span>
-                        <h3>Adventure</h3>
-                        <p>Like "Where the Wild Things Are" - bold explorations</p>
-                    </button>
-                </div>
-            </section>
-
-            <!-- Step 2: Language Selection -->
-            <section id="step2" class="step">
-                <h2>Step 2: Select Your Target Language</h2>
+                <h2>Step 1: Select Your Target Language</h2>
                 <p class="step-description">Which language would you like to learn?</p>
                 <div class="options-grid">
                     <button class="option-card" data-language="spanish">
@@ -78,18 +50,24 @@
                         <p>日本語</p>
                     </button>
                 </div>
-                <button class="btn-back" onclick="goToStep(1)">← Back</button>
+            </section>
+
+            <!-- Step 2: Childhood Stories Selection -->
+            <section id="step2" class="step">
+                <h2>Step 2: Select Childhood Stories You Enjoyed</h2>
+                <p class="step-description">Choose as many stories as you remember loving (select at least one)</p>
+                <div id="childhoodStoriesGrid" class="options-grid"></div>
+                <div class="button-group">
+                    <button class="btn-back" onclick="goToStep(1)">← Back</button>
+                    <button class="btn-primary" onclick="proceedToTargetTexts()">Continue →</button>
+                </div>
             </section>
 
             <!-- Step 3: Target Text Selection -->
             <section id="step3" class="step">
-                <h2>Step 3: Choose Your Target Text</h2>
-                <p class="step-description">What would you like to read in your target language?</p>
-                <div class="text-input-container">
-                    <label for="targetTextTitle">Enter the title or paste a sample of the text:</label>
-                    <input type="text" id="targetTextTitle" placeholder="e.g., 'Le Petit Prince' or 'Don Quijote'" />
-                    <textarea id="targetTextSample" rows="6" placeholder="Paste a sample paragraph from your target text here (optional)..."></textarea>
-                </div>
+                <h2>Step 3: Choose Target Texts to Read</h2>
+                <p class="step-description">Select the texts you want to read in <span id="selectedLanguageName"></span> (select at least one)</p>
+                <div id="targetTextsGrid" class="options-grid"></div>
                 <div class="button-group">
                     <button class="btn-back" onclick="goToStep(2)">← Back</button>
                     <button class="btn-primary" onclick="generateLearningPath()">Generate Learning Path →</button>
